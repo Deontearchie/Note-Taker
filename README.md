@@ -1,4 +1,6 @@
 # Note-Taker
-![this is an image](https://placebear.com/200/300)
+![this is an image](https://placebear.com/200/300). 
+## Description. 
+This was an app to practice using express. It allows a user to write a note and it saves that note to a JSON file.
 ## Link to deployed. 
 [Note Taker]( https://thawing-retreat-73406.herokuapp.com/)
